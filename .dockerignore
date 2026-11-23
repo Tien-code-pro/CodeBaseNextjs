@@ -1,0 +1,7 @@
+public/assets
+.git
+.gitignore
+docker
+.env
+.env.*
+!.env.example

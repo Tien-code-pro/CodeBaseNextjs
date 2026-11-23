@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "pages": {
+    "demo-page": {
+      "template": "default",
+      "redux": false
+    }
+  }
+}
